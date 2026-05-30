@@ -152,4 +152,4 @@ This project is provided for personal and educational use. Use at your own risk.
 
 ## Repository
 
-- **GitHub**: [https://github.com/karejame/pikpak-rename](https://github.com/karejame/pikpak-rename)
+- **GitHub**: [https://github.com/karejame/pikpak-rename](https://github.com/karejame/pikpak-rename) 

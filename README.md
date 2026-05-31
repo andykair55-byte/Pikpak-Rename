@@ -7,7 +7,7 @@
 
 ---
 
-## Features
+## Features 
 
 - **Multi-step rename pipeline** — chain multiple find-and-replace rules using regular expressions
 - **Filter by type** — target only files or only folders, or filter by file extension and name pattern

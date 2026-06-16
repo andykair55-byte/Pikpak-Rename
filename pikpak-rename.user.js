@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PikPak Rename Pro v6.0
-// @namespace    pikpak-pro
+// @namespace    pikpak-pro 
 // @version      6.0
 // @description  Batch rename files on PikPak with reliable credential capture and CORS-safe API requests.
 // @match        https://mypikpak.com/*
